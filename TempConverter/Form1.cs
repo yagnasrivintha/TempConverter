@@ -14,9 +14,9 @@ namespace TempConverter
     {
         public Form1()
         {
+            
             InitializeComponent();
-            comboBox1.Text = "C";
-            //comboBox1.Items.Add("C");
+            comboBox1.Items.Add("C");
             comboBox1.Items.Add("F");
             comboBox1.Items.Add("K");
             pictureBox1.Image = Properties.Resources.temperaturegauge_none;

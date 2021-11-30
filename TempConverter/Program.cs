@@ -19,8 +19,11 @@ namespace TempConverter
         Program Title: <CSC 317 Object Oriented Programming - TempConverter.>
 
         File Description:
-
-        <Briefly describe the programs and its goals.>
+        Program takes input and the format and converts the value into respective values in other temperature formats
+        This helps in :
+        Identifying the test cases 
+        limitations of the Data Types 
+        using the resources
 
         */
         [STAThread]
